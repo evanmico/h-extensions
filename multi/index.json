@@ -11,7 +11,7 @@
       "ALL"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions/multi",
-    "code": "gh:hayase-app/extensions/multi/animetosho"
+    "update": "gh:evanmico/h-extensions/multi",
+    "code": "gh:evanmico/h-extensions/multi/animetosho"
   }
 ]
